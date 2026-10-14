@@ -86,7 +86,7 @@ VOO earned less than QQQ but fell less, so its return per unit of drawdown was h
 
 <details>
 <summary><b>Full table: all 50 ETFs</b> </summary>
-</details>
+
 
 | Rank | Ticker | Category | AUM ($B) | Expense ratio | 1Y return | 5Y cumulative | 5Y annualized |
 |---|---|---|---|---|---|---|---|
