@@ -84,8 +84,9 @@ Raw return favors risky funds, and comparing a bond fund to a semiconductor fund
 
 VOO earned less than QQQ but fell less, so its return per unit of drawdown was higher. Only three ETFs had a comparable five-year drawdown figure. For VOOG and QQQ the worst drawdown falls inside the last five years; for VOO the figure comes from a July 2026 article.
 
-<details markdown="1">
-<summary><b>Full table: all 50 ETFs</b> (click to expand)</summary>
+<details>
+<summary><b>Full table: all 50 ETFs</b> </summary>
+</details>
 
 | Rank | Ticker | Category | AUM ($B) | Expense ratio | 1Y return | 5Y cumulative | 5Y annualized |
 |---|---|---|---|---|---|---|---|
